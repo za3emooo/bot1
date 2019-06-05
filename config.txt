@@ -1,0 +1,7 @@
+﻿token= NTg1ODA2NjYzNTA4ODE5OTY4.XPe1TA.Njyj6Gmh2Ht-cHMRJ_W9Dbh87ns
+
+owner= 566173760160268288
+prefix= fplay
+game= Estrella . 
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
